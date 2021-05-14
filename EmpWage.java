@@ -14,7 +14,6 @@ else if ( empCheck == IS_PART_TIME )
 	//Employee is Absent
 	Emp_wage_hour = 4;
 else
-
 	Emp_wage_hour = 0;
 
 	int Emp = Emp_wage_hour * Wage_per_hour;
